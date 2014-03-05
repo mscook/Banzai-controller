@@ -8,3 +8,5 @@
 ## python specific
 *.pyc
 *.pyo
+# Autoenv
+.env
